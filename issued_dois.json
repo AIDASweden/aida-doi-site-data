@@ -1,11 +1,51 @@
 {
   "DOIs": {
+    "10.23698/aida/drbr": {
+      "data-links": [],
+      "access-request-links": [
+        "joel.hedlund@liu.se",
+        "claes.lundstrom@liu.se",
+        "caroline.bivik.stadler@liu.se"
+      ]
+    },
+    "10.23698/aida/drco": {
+      "data-links": [],
+      "access-request-links": [
+        "joel.hedlund@liu.se",
+        "claes.lundstrom@liu.se",
+        "karin.lindman@regionostergotland.se"
+      ]
+    },
+    "10.23698/aida/drli": {
+      "data-links": [],
+      "access-request-links": [
+        "joel.hedlund@liu.se",
+        "claes.lundstrom@liu.se",
+        "caroline.bivik.stadler@liu.se"
+      ]
+    },
+    "10.23698/aida/drov": {
+      "data-links": [],
+      "access-request-links": [
+        "joel.hedlund@liu.se",
+        "claes.lundstrom@liu.se",
+        "caroline.bivik.stadler@liu.se"
+      ]
+    },
     "10.23698/aida/drsk": {
       "data-links": [],
       "access-request-links": [
         "joel.hedlund@liu.se",
         "claes.lundstrom@liu.se",
         "karin.lindman@regionostergotland.se"
+      ]
+    },
+    "10.23698/aida/drske": {
+      "data-links": [],
+      "access-request-links": [
+        "joel.hedlund@liu.se",
+        "claes.lundstrom@liu.se",
+        "caroline.bivik.stadler@liu.se"
       ]
     }
   }
